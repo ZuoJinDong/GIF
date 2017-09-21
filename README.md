@@ -10,3 +10,6 @@
 
 ![TimePicker时间选择器](https://github.com/ZuoJinDong/GIF/blob/master/TimePicker.gif) <br>
 [TimePicker时间选择器](https://github.com/ZuoJinDong/TimePicker) <br><br>
+
+![ViewGuide功能导航](https://github.com/ZuoJinDong/GIF/blob/master/ViewGuide.gif) <br>
+[ViewGuide功能导航](https://github.com/ZuoJinDong/Guide) <br><br>
